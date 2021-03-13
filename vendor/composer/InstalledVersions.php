@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'c33b853ee55006d988eaf11ecb70af80fdce5b1f',
     'name' => 'bagisto/bagisto',
   ),
   'versions' => 
@@ -91,12 +91,12 @@ private static $installed = array (
     ),
     'bagisto/bagisto' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'c33b853ee55006d988eaf11ecb70af80fdce5b1f',
     ),
     'bagisto/bagisto-package-generator' => 
     array (
